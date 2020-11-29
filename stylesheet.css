@@ -2,3 +2,7 @@
   font-family: Arial;
   align: center;
 }
+
+* {
+  background-color: red;
+}
